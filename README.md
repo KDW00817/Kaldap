@@ -30,3 +30,5 @@ Displays steps according to the current number of people / Displays the color ap
 ![image](https://github.com/KDW00817/test/assets/153358048/26061f7f-8d0e-43ee-9171-ecfe7f7c6e1d)
 
 
+Create a notification banner after the caution phase / The risk level is indicated by alternating red and black background colors
+
