@@ -32,7 +32,10 @@
 * An mAP of 95% provides top results with 95% accuracy
 * Loss refers to the loss value of the learned deep learning model
 * Loss represents the difference between the output predicted by the model and the actual correct answer
-* The lower the loss value, the better the model’s performance 
+* The lower the loss value, the better the model’s performance
+
+![image](https://github.com/KDW00817/test/assets/153358048/40cec53c-e9f3-47c7-b479-8e4fee0a3c9e)
+* The mAP of YOLOv4 is 6% higher than YOLOv4-Tiny, but for real-time use, YOLOv4-Tiny, which has about 5 times higher FPS, is used
 
 
 ## Set the number of people per square meter level 
