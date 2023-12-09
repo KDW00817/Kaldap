@@ -45,7 +45,7 @@
 
 
 ## Final result
-![image](https://github.com/KDW00817/test/assets/153358048/7dae3d4c-3e7e-4989-9ec1-126559f8e0cb)
+![image](https://github.com/KDW00817/test/assets/153358048/92b1eef7-ffe6-4289-bfd8-7db0f99b6fae)
 ![image](https://github.com/KDW00817/test/assets/153358048/d88cb52c-e77a-4fd3-b9c9-f5888d0400ef)
 * Displays steps according to the current number of people
 * Displays the color appropriate for the current stage
