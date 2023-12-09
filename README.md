@@ -50,7 +50,8 @@
 * Displays steps according to the current number of people
 * Displays the color appropriate for the current stage
 
-![image](https://github.com/KDW00817/test/assets/153358048/1d0cc9f0-139b-4414-b576-9c6349e0bdad) ![image](https://github.com/KDW00817/test/assets/153358048/1ab1e6ad-c0d0-4031-a9f5-6402106fe849)
+![image](https://github.com/KDW00817/test/assets/153358048/1d0cc9f0-139b-4414-b576-9c6349e0bdad) ![image](https://github.com/KDW00817/test/assets/153358048/ab2ede09-af11-4fb2-aee2-d25384ba5ed2)
+
 * Create a notification banner after the caution phase 
 * The risk level is indicated by alternating red and black background colors
 
