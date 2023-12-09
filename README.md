@@ -9,9 +9,6 @@
 ## Development environment
 ![image](https://github.com/KDW00817/test/assets/153358048/541ec4c5-6ab2-4a4b-b439-08ba91ef8d2c)
 
-
-
-
 ## H/W Configuration
 * ubuntu
 * Jetson nano : Transmit processed video information to the server
@@ -21,7 +18,7 @@
 * Warning notification : Broadcast warning notifications according to the risk level specified in real time on the web page
 
 ## S/W configuration
-* Yolov4 
+* Yolov4-Tiny : Application of open source YOLOv4-Tiny real-time object recognition deep learning algorithm
 * Jetson nano : Process video information and transmit video information to server
 * Webcam : Object recognition through camera
 * Web : Real-time video information reflected on administrator web page
