@@ -11,7 +11,7 @@
 
 
 ## H/W Configuration
-* ubuntu
+* ubuntu 18.04
 * Jetson nano : Transmit processed video information to the server
 * Computer : Configure an administrator system by connecting Jason Nano and a monitor
 * Webcam : Configure CCTV by connecting Jackson Nano and webcam
