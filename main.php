@@ -49,9 +49,9 @@ var isAlertPlaying = false;
 var isBlinking = false;
 var isNotificationShown = false;
 var levelIntervals = [
-  { level: "Level 1: ¾ÈÀü ´Ü°è", backgroundColor: "#87CEEB", minCount: 0 },
-  { level: "Level 2: ÁÖÀÇ ´Ü°è", backgroundColor: "#FFFF00", minCount: 10 },
-  { level: "Level 3: À§Çè ´Ü°è", backgroundColor: "#FF0000", minCount: 25 }
+  { level: "Level 1: ì•ˆì „ ë‹¨ê³„", backgroundColor: "#87CEEB", minCount: 0 },
+  { level: "Level 2: ì£¼ì˜ ë‹¨ê³„", backgroundColor: "#FFFF00", minCount: 10 },
+  { level: "Level 3: ìœ„í—˜ ë‹¨ê³„", backgroundColor: "#FF0000", minCount: 25 }
 ];
 
 videoPlayer.addEventListener("play", function() {
@@ -64,7 +64,7 @@ videoPlayer.addEventListener("play", function() {
     if (!isAlertPlaying) {
       playAlertIfNeeded(detectedObjectsCount);
     }
-  }, 10000); // 10ÃÊ¸¶´Ù ¾÷µ¥ÀÌÆ®
+  }, 10000); // 10ì´ˆë§ˆë‹¤ ì—…ë°ì´íŠ¸
 
   videoPlayer.addEventListener("pause", function() {
     clearInterval(intervalId);
@@ -72,7 +72,7 @@ videoPlayer.addEventListener("play", function() {
 });
 
 function getDetectedObjectsCount() {
-  return Math.floor(Math.random() * 50) + 1; // 1ºÎÅÍ 50±îÁöÀÇ ·£´ıÇÑ ¼ö ¹İÈ¯
+  return Math.floor(Math.random() * 50) + 1; // 1ë¶€í„° 50ê¹Œì§€ì˜ ëœë¤í•œ ìˆ˜ ë°˜í™˜
 }
 
 function updateLevelIndicator(detectedObjectsCount) {
@@ -100,7 +100,7 @@ function playAlertIfNeeded(detectedObjectsCount) {
 function playAlert() {
   isAlertPlaying = true;
   if (lastDetectedObjectsCount >= levelIntervals[2].minCount) {
-    alert("¸¹Àº ÀÎ¿øÀÌ °¨ÁöµÇ¾ú½À´Ï´Ù!");
+    alert("ë§ì€ ì¸ì›ì´ ê°ì§€ë˜ì—ˆìŠµë‹ˆë‹¤!");
   }
 }
 
@@ -113,7 +113,7 @@ function blinkBackground() {
   var intervalId = setInterval(function() {
     if (count === 10) {
       clearInterval(intervalId);
-      document.body.style.backgroundColor = "#FFFFFF"; // ÇÏ¾á»ö
+      document.body.style.backgroundColor = "#FFFFFF"; // í•˜ì–€ìƒ‰
       isBlinking = false;
     } else {
       document.body.style.backgroundColor = count % 2 === 0 ? "#FF0000" : "#FFFFFF";
@@ -141,7 +141,7 @@ levelIndicator.addEventListener("click", function() {
 $videoPath = 'test.mp4';
 
 
-// ¿µ»ó Àç»ı ÇÔ¼ö
+// ì˜ìƒ ì¬ìƒ í•¨ìˆ˜
 function playVideo($videoPath) {
     $html = '<video width="320" height="240" controls>';
     $html .= '<source src="' . $videoPath . '" type="video/mp4">';
@@ -151,7 +151,7 @@ function playVideo($videoPath) {
     echo $html;
 }
 
-// ¿µ»ó Àç»ı
+// ì˜ìƒ ì¬ìƒ
 playVideo($videoPath);
 ?>
 
