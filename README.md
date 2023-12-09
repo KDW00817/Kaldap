@@ -25,7 +25,9 @@
 * Web : Real-time video information reflected on administrator web page
 * Warning notification : Notifications and warnings tailored to specified risk levels
 * manager : The administrator responds according to the unit manual.
+
   
+ ## Set the number of people per square meter level 
 ![image](https://github.com/KDW00817/test/assets/153358048/0725980c-d4e4-43ec-ae24-c748cb70d595)
 ![image](https://github.com/KDW00817/test/assets/153358048/d75ae802-8987-4761-baf1-64af51b1a4f4)
 
