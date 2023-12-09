@@ -22,6 +22,8 @@
 * manager : The administrator responds according to the unit manual.
   
 ![image](https://github.com/KDW00817/test/assets/153358048/0725980c-d4e4-43ec-ae24-c748cb70d595)
+![image](https://github.com/KDW00817/test/assets/153358048/d75ae802-8987-4761-baf1-64af51b1a4f4)
+
 * Displays steps according to the current number of people
 * Displays the color appropriate for the current stage
 ![image](https://github.com/KDW00817/test/assets/153358048/7dae3d4c-3e7e-4989-9ec1-126559f8e0cb)
