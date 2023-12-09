@@ -35,3 +35,11 @@
 * Create a notification banner after the caution phase 
 * The risk level is indicated by alternating red and black background colors
 
+## Benefit
+* In the event of an accident, the location and situation of rescue victims can be identified after securing appropriate first aid supplies and emergency personnel
+
+## Supplementary matters
+* Realistically, it is not possible to recognize a large number of people
+* Since a single camera cannot recognize the population density of a large area, efficiency and performance will improve if multiple areas are recognized using multiple cameras
+
+
