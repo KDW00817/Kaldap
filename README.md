@@ -24,9 +24,17 @@
 * Webcam : Object recognition through camera
 * Web : Real-time video information reflected on administrator web page
 * Warning notification : Notifications and warnings tailored to specified risk levels
-* manager : The administrator responds according to the unit manual.
+* manager : The administrator responds according to the unit manual
 
-  
+## Pedestrian recognition
+![image](https://github.com/KDW00817/test/assets/153358048/d3d79279-d7f0-4234-bc28-5ba763462647) ![image](https://github.com/KDW00817/test/assets/153358048/ee17c400-b1dc-4f3d-81aa-d7a6dfb629bc)
+* mAP stands for Mean Average Precision
+* An mAP of 95% provides top results with 95% accuracy
+* Loss refers to the loss value of the learned deep learning model
+* Loss represents the difference between the output predicted by the model and the actual correct answer
+* The lower the loss value, the better the model’s performance 
+
+
 ## Set the number of people per square meter level 
 ![image](https://github.com/KDW00817/test/assets/153358048/0725980c-d4e4-43ec-ae24-c748cb70d595)
 ## Set the number of falls per square meter level
