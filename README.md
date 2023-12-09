@@ -46,13 +46,17 @@
 
 ## Final result
 ![image](https://github.com/KDW00817/test/assets/153358048/92b1eef7-ffe6-4289-bfd8-7db0f99b6fae)
-![image](https://github.com/KDW00817/test/assets/153358048/d88cb52c-e77a-4fd3-b9c9-f5888d0400ef)
+![image](https://github.com/KDW00817/test/assets/153358048/980d30ba-b9f3-4e1f-8b8b-36aa84b83d3d)
 * Displays steps according to the current number of people
 * Displays the color appropriate for the current stage
 
-![image](https://github.com/KDW00817/test/assets/153358048/f6f09286-1c2a-482a-b420-8d1b7de57d76) ![image](https://github.com/KDW00817/test/assets/153358048/26061f7f-8d0e-43ee-9171-ecfe7f7c6e1d)
+![image](https://github.com/KDW00817/test/assets/153358048/1d0cc9f0-139b-4414-b576-9c6349e0bdad) ![image](https://github.com/KDW00817/test/assets/153358048/1ab1e6ad-c0d0-4031-a9f5-6402106fe849)
 * Create a notification banner after the caution phase 
 * The risk level is indicated by alternating red and black background colors
+
+![image](https://github.com/KDW00817/test/assets/153358048/1bd33bca-7c21-4b6d-bf9e-6a9869821dfc)
+* Recognition of person who has fallen
+
 
 ## Benefit
 * In the event of an accident, the location and situation of rescue victims can be identified after securing appropriate first aid supplies and emergency personnel
