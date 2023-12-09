@@ -7,7 +7,8 @@
 ![image](https://github.com/KDW00817/test/assets/153358048/ded11cc0-63de-4165-97e6-db57ad16b3f5)
 
 ## Development environment
-![image](https://github.com/KDW00817/test/assets/153358048/541ec4c5-6ab2-4a4b-b439-08ba91ef8d2c)
+![image](https://github.com/KDW00817/test/assets/153358048/541ec4c5-6ab2-4a4b-b439-08ba91ef8d2c) ![image](https://github.com/KDW00817/test/assets/153358048/3c931611-5b4c-4644-96b4-f1a9b90d2892)
+
 
 ## H/W Configuration
 * ubuntu
