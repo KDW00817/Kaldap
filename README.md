@@ -21,5 +21,10 @@
 * Warning notification : Notifications and warnings tailored to specified risk levels
 * manager : The administrator responds according to the unit manual.
 
+![image](https://github.com/KDW00817/test/assets/153358048/0725980c-d4e4-43ec-ae24-c748cb70d595)
+![image](https://github.com/KDW00817/test/assets/153358048/7dae3d4c-3e7e-4989-9ec1-126559f8e0cb)
+![image](https://github.com/KDW00817/test/assets/153358048/d88cb52c-e77a-4fd3-b9c9-f5888d0400ef)
+![image](https://github.com/KDW00817/test/assets/153358048/f6f09286-1c2a-482a-b420-8d1b7de57d76)
+![image](https://github.com/KDW00817/test/assets/153358048/26061f7f-8d0e-43ee-9171-ecfe7f7c6e1d)
 
 
