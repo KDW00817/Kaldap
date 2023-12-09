@@ -8,6 +8,8 @@
 * Web - Provide video to web pages in real time
 * Warning notification - Broadcast warning notifications according to the risk level specified in real time on the web page
 
-
+## Contribution
+- Contribution을 환영합니다.
+- github issue 로 먼저 Feature, Bug fix 제안을 선호합니다만 바로 PR만 해도 괜찮습니다.
 
 
