@@ -3,11 +3,11 @@
 ## Technology Used
 ![image](https://github.com/KDW00817/test/assets/153358048/6ffddc20-ed45-4b5d-92e3-5c8b8f33ce00) ![image](https://github.com/KDW00817/test/assets/153358048/aeb0b5a6-53d2-42bf-920d-d059320b67cb)
 
-## System flow chart
-![image](https://github.com/KDW00817/test/assets/153358048/ded11cc0-63de-4165-97e6-db57ad16b3f5)
-
 ## Development environment
 ![image](https://github.com/KDW00817/test/assets/153358048/541ec4c5-6ab2-4a4b-b439-08ba91ef8d2c) ![image](https://github.com/KDW00817/test/assets/153358048/3c931611-5b4c-4644-96b4-f1a9b90d2892)
+
+## System flow chart
+![image](https://github.com/KDW00817/test/assets/153358048/ded11cc0-63de-4165-97e6-db57ad16b3f5)
 
 
 ## H/W Configuration
