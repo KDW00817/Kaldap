@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=보행자%20인식%20기술을%20이용한%20재난%20안전%20시스템&fontSize=90&animation=fadeIn&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=보행자%20인식%20기술을%20이용한%20재난%20안전%20시스템&fontSize=30&animation=fadeIn&descAlignY=51&descAlign=62)
 
 ## Technology Used
 ![image](https://github.com/KDW00817/test/assets/153358048/6ffddc20-ed45-4b5d-92e3-5c8b8f33ce00) ![image](https://github.com/KDW00817/test/assets/153358048/aeb0b5a6-53d2-42bf-920d-d059320b67cb)
